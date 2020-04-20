@@ -14,5 +14,4 @@ services:
   - xvfb
 script:
   - npm install
-  - karma start
   - npm test
